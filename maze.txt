@@ -1,0 +1,26 @@
+Unsolved: 
+ *  X  X  *  X  X  X  X  X  X  X 
+ X  *  *  X  X  *  X  *  X  *  X 
+ X  X  X  *  *  X  X  X  X  X  X 
+ X  *  X  X  X  *  *  X  *  *  X 
+ X  *  X  *  X  X  X  X  *  *  X 
+ X  X  X  *  X  *  X  *  X  X  X 
+ X  *  X  X  X  *  X  X  X  *  X 
+ *  X  X  *  X  X  X  *  X  *  X 
+ X  X  *  X  X  *  X  X  X  X  * 
+ X  *  X  *  X  *  X  *  *  X  X 
+ X  X  X  X  X  X  X  X  X  X  * 
+
+
+Solved: 
+ *  X  X  *  X  X  X  X  X  X  X 
+ S  *  *  X  X  *  X  *  X  *  X 
+ O  O  O  *  *  X  X  X  X  X  X 
+ X  *  O  O  O  *  *  X  *  *  X 
+ X  *  X  *  O  X  X  X  *  *  X 
+ X  X  X  *  O  *  X  *  X  X  X 
+ X  *  O  O  O  *  X  X  X  *  X 
+ *  O  O  *  X  X  X  *  X  *  X 
+ O  O  *  X  X  *  O  O  O  O  * 
+ O  *  X  *  X  *  O  *  *  O  X 
+ O  O  O  O  O  O  O  X  X  E  * 
