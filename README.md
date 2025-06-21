@@ -20,8 +20,8 @@ Developed a **maze generator** using the **DFS algorithm** with **randomized bac
 - **Stored maze structure** in a **class-based implementation**
 - **Allowed dynamic maze sizes**, with randomized start and end points
 
-✔️ Successfully **generated and displayed mazes dynamically**  
-✔️ **Ensured uniqueness of paths and structural integrity**  
+ Successfully **generated and displayed mazes dynamically**  
+ **Ensured uniqueness of paths and structural integrity**  
 
 ---
 
@@ -33,8 +33,8 @@ Implemented **maze-solving functionality** using **DFS traversal**.
 - **Accepted maze input from files** for solving pre-defined layouts
 - **Exported solutions to text files** for external reference
 
-✔️ Successfully **found and displayed the optimal path** in generated mazes  
-✔️ **Handled both interactive user input and CLI-based file input**  
+ Successfully **found and displayed the optimal path** in generated mazes  
+ **Handled both interactive user input and CLI-based file input**  
 
 ---
 
@@ -44,4 +44,3 @@ Implemented **maze-solving functionality** using **DFS traversal**.
 - **Designed reusable C++ classes for flexibility**
 - **Successfully tested and validated all functionalities**
 
-For improvements or contributions, feel free to **open an issue** or **submit a pull request**.
